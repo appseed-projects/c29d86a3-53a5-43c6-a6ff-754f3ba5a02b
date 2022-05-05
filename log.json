@@ -1,0 +1,22 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "datta-able",
+    "docker": "1",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/c29d86a3-53a5-43c6-a6ff-754f3ba5a02b",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "c29d86a3-53a5-43c6-a6ff-754f3ba5a02b",
+    "task_info": "Upload Sources [0%] - 139 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-05-09-04-36",
+    "task_ts_start": "2022-05-05-09-04-35"
+}
